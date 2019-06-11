@@ -1,11 +1,11 @@
 {
-	"Agenda": [
-		{ "id": 1, "meetingAgenda": "meeting", "meetingDuration": "10min", "assignedEmail" : "hruday11@gmail.com" },
-		{ "id": 2, "meetingAgenda": "meeting_1", "meetingDuration": "20min", "assignedEmail" : "hruday12@gmail.com" },
-		{ "id": 3, "meetingAgenda": "meeting_2", "meetingDuration": "30min", "assignedEmail" : "hruday13@gmail.com" },
-		{ "id": 4, "meetingAgenda": "meeting_3", "meetingDuration": "40min", "assignedEmail" : "hruday14@gmail.com" },
-		{ "id": 5, "meetingAgenda": "meeting_4", "meetingDuration": "50min", "assignedEmail" : "hruday15@gmail.com" },
-		{ "id": 6, "meetingAgenda": "meeting_5", "meetingDuration": "60min", "assignedEmail" : "hruday16@gmail.com" },
-		{ "id": 7, "meetingAgenda": "meeting_6", "meetingDuration": "70min", "assignedEmail" : "hruday17@gmail.com" }	
+	"users": [
+		{ "id": 1, "userName": "Hruday11", "role": "admin", "assignedEmail" : "hruday11@gmail.com", "password":"12345678" },
+		{ "id": 2, "userName": "Admin", "role": "admin", "assignedEmail" : "hruday12@gmail.com", "password":"2345678" },
+		{ "id": 3, "userName": "Kumar11", "role": "user", "assignedEmail" : "hruday13@gmail.com", "password":"345678" },
+		{ "id": 4, "userName": "Hruday", "role": "user", "assignedEmail" : "hruday14@gmail.com", "password":"45678" },
+		{ "id": 5, "userName": "Swathi", "role": "accounts", "assignedEmail" : "hruday15@gmail.com", "password":"5678" },
+		{ "id": 6, "userName": "Madhuri", "role": "accounts", "assignedEmail" : "hruday16@gmail.com", "password":"678" },
+		{ "id": 7, "userName": "Latha", "role": "accounts", "assignedEmail" : "hruday17@gmail.com", "password":"7890"}	
 	]
 }
